@@ -24,7 +24,7 @@ public class PowerCut {
 		return con;
 	}
 	
-	//Read function
+	//Read function for powercut
 	public String readPowerCuts()
 	{ 
 		 String output = ""; 
